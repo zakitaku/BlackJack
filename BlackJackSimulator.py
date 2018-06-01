@@ -5,7 +5,7 @@ import random
 基本となるカードを定義するクラス
 rank:カードのランク, suit:カードのスート, value:カードから得る数
 '''
-# gitテスト用変更点 123
+# gitテスト用変更点 1234
 
 
 class Card:
