@@ -83,7 +83,7 @@ class GamePlayer:
         self.normalbj = False
 
 
-    #　子オブジェクトから呼び出せる初期化関数
+    # 子オブジェクトから呼び出せる初期化関数
     def initialize(self):
         self.cards = []
         self.total = 0
